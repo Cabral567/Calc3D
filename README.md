@@ -5,7 +5,7 @@ Este é um projeto simples que permite visualizar funções matemáticas usando 
 ## Como Usar
 
 1. Clone este repositório.
-2. Execute o arquivo `visualizador_funcoes.py`.
+2. Execute o arquivo `main.py`.
 3. Insira uma função matemática quando solicitado.
 4. Visualize o gráfico gerado.
 
