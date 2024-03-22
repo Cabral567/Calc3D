@@ -4,7 +4,7 @@ import sympy as sp
 
 # Entrada da função
 expr = input('Digite a função (exemplo: sin(x) + cos(x)): ')
-exprf = r'expr'
+
 # Símbolo para a variável x
 x = sp.symbols('x')
 
@@ -27,13 +27,14 @@ try:
 
     plt.xlabel('Eixo X')
     plt.ylabel('Eixo Y')
-    plt.title(exprf)
-
+    plt.title(expr)
+    # Estilo
     plt.grid(True, linestyle='--', linewidth=0.5, color='gray')
 
     plt.axhline(0, color='black', linewidth=1)
     plt.axvline(0, color='black', linewidth=1)
 
+    # inicia o gráfico
     plt.show()
 
 except Exception as e:
