@@ -4,10 +4,15 @@ This is a simple project that allows you to visualize mathematical functions usi
 
 ## How to Use
 
-1. Clone this repository.
-2. Run the `main.py` file.
-3. Enter a mathematical function when prompted.
-4. View the generated graph.
+1. Install de dependecies numpy, matplotlib and sympy
+2. Clone this repository.
+4. Run the `main.py` file.
+5. Enter a mathematical function when prompted.
+6. View the generated graph.
+
+## On the terminal:
+
+pip install numpy matplotlib sympy
 
 ## Contributing
 
@@ -23,10 +28,15 @@ Este é um projeto simples que permite visualizar funções matemáticas usando 
 
 ## Como Usar
 
-1. Clone este repositório.
-2. Execute o arquivo `main.py`.
-3. Insira uma função matemática quando solicitado.
-4. Visualize o gráfico gerado.
+1. Instale as dependecias numpy, matplotlib e sympy
+2. Clone este repositório.
+3. Execute o arquivo `main.py`.
+4. Insira uma função matemática quando solicitado.
+5. Visualize o gráfico gerado.
+
+## No terminal:
+
+pip install numpy matplotlib sympy
 
 ## Contribuindo
 
